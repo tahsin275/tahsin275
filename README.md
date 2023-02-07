@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahsin Shahriar
-- 👀 I’m interested in Javascript, React and Python
-- 🌱 I’m currently learning Blockchain Technology and Web3
+- 👀 I’m interested in Javascript, React Node.js, PHP and Laravel
+- 🌱 I’m currently learning Cloud Technology, Blockchain and Web3
 - 💞️ I’m looking to collaborate on new projects and ideas
 - 📫 Search in Google for "Tahsin Shahriar" and you'll find me
 
